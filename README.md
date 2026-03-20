@@ -1,4 +1,4 @@
-# Automatic Number Plate Recognition (ANPR) System
+# Automatic Number Plate Recognition and Extraction (ANPRE) System
 
 A lightweight, CPU-friendly Automatic Number Plate Recognition system built with OpenCV and Tesseract OCR. This project implements a complete pipeline for detecting, aligning, reading, and logging vehicle number plates from live camera feed.
 
@@ -166,3 +166,6 @@ numpy==1.24.3
 pytesseract==0.3.10
 pandas==2.0.3
 ```
+
+author: MUCYO Ivan
+email: mucyoivan25@gmail.com
