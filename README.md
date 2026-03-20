@@ -2,6 +2,9 @@
 
 A lightweight, CPU-friendly Automatic Number Plate Recognition system built with OpenCV and Tesseract OCR. This project implements a complete pipeline for detecting, aligning, reading, and logging vehicle number plates from live camera feed.
 
+<img width="1069" height="714" alt="image" src="https://github.com/user-attachments/assets/dcafd7b7-720f-42fd-884b-038d7169343a" />
+
+
 ## 📋 Pipeline Overview
 
 The system follows a strict three-stage pipeline with additional validation and persistence layers:
